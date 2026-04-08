@@ -51,8 +51,3 @@ Bot: Goodbye!
 
 This project demonstrates basic Python programming concepts like loops, conditionals, and user interaction.
 
-## 🔮 Future Improvements
-
-* Add more intelligent responses
-* Integrate NLP for better understanding
-* Build a GUI-based chatbot
